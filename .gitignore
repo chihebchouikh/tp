@@ -1,0 +1,27 @@
+# Fichiers exécutables
+*.exe
+*.out
+*.app
+
+# Fichiers objets
+*.o
+*.obj
+
+# Dossiers de build
+/build/
+/dist/
+
+# Fichiers de dépendances
+/node_modules/
+/vendor/
+
+# Fichiers temporaires
+*.tmp
+*.log
+*.bak
+
+# Fichiers spécifiques à l'IDE (à adapter selon votre environnement)
+.vscode/
+.idea/
+*.sublime-workspace
+

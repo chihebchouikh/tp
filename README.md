@@ -1,3 +1,5 @@
-# Bienvenue
-Programme C++ qui affiche "Bienvenue le monde !" en utilisant la fonction
-`afficherBienvenue()`.
+#include <iostream>
+void afficherBienvenue()
+{
+std::cout << "Bienvenue le monde !" << std::endl;
+}
